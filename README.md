@@ -2,5 +2,5 @@
 
 To do data driven solution in:
 
-Data Science Driven Solution Websiteb With Sales Forecasting For Company
+Data Science Driven Solution Website development With Sales Forecasting For Company
 
